@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" filepath="$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project01.iml" filepath="$PROJECT_DIR$/Project01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StaticWeb02/StaticWeb02.iml" filepath="$PROJECT_DIR$/StaticWeb02/StaticWeb02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gratest.iml" filepath="$PROJECT_DIR$/.idea/modules/gratest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gratest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gratest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gratest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gratest.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
     </modules>
   </component>
 </project>
